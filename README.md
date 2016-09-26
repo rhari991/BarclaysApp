@@ -4,10 +4,10 @@ tweet using voice commands.
 
 #Build Instructions
 
-1) Signup for a [Moxtra account](https://developer.moxtra.com/) and add them to the app\src\main\res\values\keys.xml file.
-2) Create a [Firebase project](https://firebase.google.com/) and add the obtained google-services.json file to the app directory.
-3) Host the provided server files on a server and add the server address and port number to the app\src\main\res\values\keys.xml file.
-4) Install the Lombok plugin for Android Studio :
+1) Signup for a [Moxtra account](https://developer.moxtra.com/) and add them to the app\src\main\res\values\keys.xml file.  
+2) Create a [Firebase project](https://firebase.google.com/) and add the obtained google-services.json file to the app directory.  
+3) Host the provided server files on a server and add the server address and port number to the app\src\main\res\values\keys.xml file.  
+4) Install the Lombok plugin for Android Studio :  
 
 * Close the Project *(required to enable annotation processing)*
 * Install Lombok Plugin (`Configure > Plugins > Browse Repositories > Search 'Lombok Plugin' > Install`)
