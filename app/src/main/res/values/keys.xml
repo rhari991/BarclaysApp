@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="moxtra_client_id">XXXXXXXXXX</string>
+    <string name="moxtra_client_secret">XXXXXXXXXX</string>
+    <string name="server_address">XXX.XXX.XXX.XXX</string>
+    <string name="server_port">XXXX</string>
+</resources>

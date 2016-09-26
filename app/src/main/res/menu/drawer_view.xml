@@ -1,0 +1,29 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/icon"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_banking"
+        android:icon="@drawable/icon"
+        android:title="Banking" />
+
+    <item
+        android:id="@+id/nav_twitter"
+        android:icon="@drawable/icon"
+        android:title="Twitter" />
+
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/icon"
+        android:title="Chat" />
+
+    <item
+        android:id="@+id/nav_uber"
+        android:icon="@drawable/icon"
+        android:title="Uber" />
+
+</menu>
