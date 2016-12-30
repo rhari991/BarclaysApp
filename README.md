@@ -1,6 +1,5 @@
-This is an application built during the Rise Hackathon 2016 in Mumbai during September 24 and 25 2016. It 
-allows the user to check his account balance, make a transaction (using the Barclays API stubs) and send a 
-tweet using voice commands.
+This is an application built during the Rise Hackathon 2016 in Mumbai during September 24 - 25, 2016. It 
+allows the user to check his/her account balance, make a transaction (using the Barclays API stubs) and send a tweet using voice commands.
 
 #Build Instructions
 

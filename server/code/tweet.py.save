@@ -1,0 +1,11 @@
+import tweepy
+auth = tweepy.OAuthHandler("7Q0gW7rGv4Eu20W0ZWRRsLedQ", "nQYbudQDKDlUTqYJetv4DGMBEUBA1928EDkT1859IWpGABa4UE")
+
+# Redirect user to Twitter to authorize
+url=auth.get_authorization_url()
+print url
+# Get access token
+#auth.get_access_token("verifier_value")
+
+# Construct the API instance
+api = tweepy.API(auth)
